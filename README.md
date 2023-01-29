@@ -16,14 +16,14 @@ Status: **Projeto em desenvolvimento**
 
 ## Descrição do Projeto
 
-Explorando um dataset com informações sobre os personagens de Star Wars.<br>
+Explorando dataset com informações sobre os personagens do Star Wars.<br>
 
-![demonstracao](https://user-images.githubusercontent.com/117411812/213947337-b992d265-2646-489a-a602-057321c49e9c.gif)
+![prototipo](https://user-images.githubusercontent.com/117411812/215357091-8ba9490a-5ea4-4e43-a6fc-4c72385d4d33.png)
 
 ## Funcionalidades
 - `Funcionalidade 1`: Mostrar informações dos personagens.
 - `Funcionalidade 2`: Navegar entre os personagens com os botões próximo e anterior.
-- `Funcionalidade 3`: Buscar personagem personagem por nome.
+- `Funcionalidade 3`: Buscar personagem por nome.
 - `Funcionalidade 4`: 
 - `Funcionalidade 5`: 
 
