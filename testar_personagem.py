@@ -1,0 +1,36 @@
+import personagem as person
+
+personagens = person.ler_csv()
+ultimo = len(personagens) - 1
+
+atual = person.proximo(84, ultimo)
+atual = person.proximo(atual, ultimo)
+atual = person.proximo(atual, ultimo)
+atual = person.proximo(atual, ultimo)
+atual = person.anterior(atual)
+atual = person.anterior(atual)
+# atual = person.proximo(atual, ultimo)
+# atual = person.proximo(atual, ultimo)
+# atual = person.anterior(atual)
+# atual = person.anterior(atual)
+# atual = person.proximo(atual, ultimo)
+# atual = person.proximo(atual, ultimo)
+# atual = person.proximo(atual, ultimo)
+print(atual)
+
+# for persona in personagens:
+#     print("name: " + persona[0])
+#     print("height: " + persona[1])
+#     #print(persona[2])
+#     print("hair_color: " + persona[3])
+#     print("skin_color: " + persona[4])
+#     print("eye_color: " + persona[5])
+#     #print(persona[6])
+#     #print(persona[7])
+#     print("gender: " + persona[8])
+#     print("homeworld: " + persona[9])
+#     print("species: " + persona[10])
+#     print("films: " + persona[11])
+#     print("------------------")
+#     #print(persona[12])
+#     #print(persona[13])
